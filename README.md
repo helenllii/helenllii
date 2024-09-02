@@ -1,4 +1,4 @@
-👋 Hi, I’m @helenllii  freshman student at Carnegie Mellon University\\
+👋 Hi, I’m @helenllii  freshman student at Carnegie Mellon University   
 👀 I’m interested in singing, writing, and anything that reflects myself and people.
 🌱 I’m currently majoring statistics and machine learning. I am learning python, crawler, JAVA, and web development, partially at school and partially learning by myself.
 📫 You can DM me by ins @kyl.elia
